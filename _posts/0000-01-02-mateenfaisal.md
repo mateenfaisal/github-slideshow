@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+life is unfair in both beautiful and nasty way
 Use the left arrow to go back!
